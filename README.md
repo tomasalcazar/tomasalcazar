@@ -1,26 +1,22 @@
-# Hi, I'm Tomás 👋
+## Hi, I'm Tomás 👋
 
 **Software Developer at Apto · Computer Engineering student at Universidad Austral**  
 Buenos Aires, Argentina 🇦🇷
 
-I build web and mobile applications, APIs, and AI-powered projects. Interested in software architecture, distributed systems, and turning ideas into useful products.
+I build web and mobile applications, APIs, and AI-powered projects, with an interest in software architecture and distributed systems.
 
-### What I'm working on
+### Projects
 
-- **Apto** — Contributing to healthcare software across web, mobile, and backend.
-- **ECHO** — Co-developing my graduation project: audio processing and AI to detect environmental sounds while wearing noise-canceling headphones.
+- **[Apto](https://github.com/apto2)** — Healthcare software across web, mobile, and backend. [Web](https://github.com/apto2/panel) · [API](https://github.com/apto2/api) · [Mobile](https://github.com/apto2/mobile) *(private)*
+- **[ECHO](https://github.com/Elias85974/ECHO)** — My graduation project with Elías Ballesteros: audio processing and AI to detect environmental sounds while wearing noise-canceling headphones. *(private)*
 - **[Nutria](https://github.com/nutria-lab/nutria-lab-II)** — A team project for meal planning and AI-assisted recipe generation.
 
-### Languages & tools
+### Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,postgres,prisma,python,cpp,swift,docker,gcp,git&amp;theme=dark&amp;perline=12" alt="TypeScript, React, Next.js, NestJS, PostgreSQL, Prisma, Python, C++, Swift, Docker, Google Cloud and Git" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,postgres,prisma,python,cpp,swift,docker,gcp,git&amp;theme=dark&amp;perline=12" width="552" alt="TypeScript, React, Next.js, NestJS, PostgreSQL, Prisma, Python, C++, Swift, Docker, Google Cloud and Git" />
 
-### GitHub activity
+### Activity
 
-<p>
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=tomasalcazar&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=3fb950&amp;hide_rank=true&amp;hide=stars,issues&amp;custom_title=Tom%C3%A1s%20on%20GitHub" alt="Tomás Alcázar's public GitHub activity" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tomasalcazar&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=00000000&amp;text_color=9198a1&amp;icon_color=9198a1&amp;hide_rank=true&amp;hide=stars,issues&amp;text_bold=false&amp;disable_animations=true&amp;card_width=420" alt="Public GitHub activity: commits in the last year, pull requests and repositories contributed to" />
 
 [LinkedIn ↗](https://www.linkedin.com/in/tom%C3%A1s-francisco-alc%C3%A1zar/)
