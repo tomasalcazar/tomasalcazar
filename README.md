@@ -17,9 +17,6 @@ I build web and mobile applications, APIs, and AI-powered projects. Interested i
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,postgres,prisma,python,cpp,swift,docker,gcp,git&amp;theme=dark&amp;perline=12" alt="TypeScript, React, Next.js, NestJS, PostgreSQL, Prisma, Python, C++, Swift, Docker, Google Cloud and Git" />
 </p>
 
-**TypeScript · React · Next.js · React Native · NestJS · PostgreSQL · Prisma**  
-Python · C++ · Swift · Docker · Google Cloud
-
 ### GitHub activity
 
 <p>
