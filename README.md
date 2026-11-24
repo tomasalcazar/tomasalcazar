@@ -8,7 +8,7 @@ I build web and mobile applications, APIs, and AI-powered projects, with an inte
 ### Projects
 
 - **[Apto](https://github.com/apto2)** — Healthcare software across web, mobile, and backend. *(private)*
-- **[ECHO](https://github.com/Elias85974/ECHO)** — My graduation project with Elías Ballesteros: audio processing and AI to detect environmental sounds while wearing noise-canceling headphones. *(private)*
+- **[ECHO](https://github.com/Elias85974/ECHO)** — My graduation project: audio processing and AI to detect environmental sounds while wearing noise-canceling headphones. *(private)*
 - **[Nutria](https://github.com/nutria-lab/nutria-lab-II)** — A team project for meal planning and AI-assisted recipe generation.
 
 ### Stack
