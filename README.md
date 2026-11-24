@@ -23,8 +23,7 @@ Python · C++ · Swift · Docker · Google Cloud
 ### GitHub activity
 
 <p>
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=tomasalcazar&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=3fb950&amp;hide_rank=true&amp;hide=stars,issues&amp;custom_title=Tom%C3%A1s%20on%20GitHub" alt="Tomás Alcázar's public GitHub activity" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasalcazar&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=6&amp;custom_title=Languages%20in%20public%20repos" alt="Most used languages in public repositories" />
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=tomasalcazar&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=3fb950&amp;hide_rank=true&amp;hide=stars,issues&amp;custom_title=Tom%C3%A1s%20on%20GitHub" alt="Tomás Alcázar's public GitHub activity" />
 </p>
 
 [LinkedIn ↗](https://www.linkedin.com/in/tom%C3%A1s-francisco-alc%C3%A1zar/)
